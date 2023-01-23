@@ -1,4 +1,6 @@
-
+---Create a procedure which take contact, name, address , email of customer as input and store customer details in system,---
+---so that we can use that data for further purpose also.--- 
+---By this we can evaluate weather the customer is new or old customer.---
 
 
 create or replace procedure query1(p_cust_contact IN customer.cust_contact%type,
