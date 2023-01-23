@@ -1,3 +1,6 @@
+---Create a trigger which gets triggered when there is any update or inserting on payment  table , it will not allow anyone to make payment on holidays.---
+
+
 CREATE OR REPLACE TRIGGER HOLIDAY
 BEFORE DELETE OR INSERT OR UPDATE ON transaction_details
 FOR EACH ROW
