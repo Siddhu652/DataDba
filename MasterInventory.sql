@@ -1,4 +1,4 @@
-
+---creating tables and insert data into those tables---
 
 select * from requirement;
 
