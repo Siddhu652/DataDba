@@ -1,3 +1,7 @@
+---Create a procedure which trans_mode,date, cust_contact   as input ---
+---and the information about the  mode by which customer  is paying bill , it can be by card, by cash , by UPI .---
+
+
 create or replace procedure query2
 as
 l_cust_id transaction_details.pay_cust_id%type := &l_cust_id;
