@@ -1,3 +1,7 @@
+--- Create a procedure which will  take requirement of the customer for a single or  for more than one product as input. ---
+--- The output should give:  req_id, p_id, staff_id , demand(requirement).---
+
+ 
  create or replace procedure query3
  as
  l_product_id requirement.p_id%type := &l_product_id;
