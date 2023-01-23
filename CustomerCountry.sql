@@ -1,3 +1,5 @@
+---Create a procedure which  will ask the customer about the product  he wants should be of which country---
+
 create or replace procedure query4
 as
 l_p_id product.p_id%type := &l_p_id;
