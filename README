@@ -1,0 +1,11 @@
+#This Folder consists of Inventory Management system designed using Oracle PL/SQL queries.
+
+#Try to follow up with 
+#1) CustomerContry.sql
+#2) InventoryManage.sql
+#3) MasterInventory.sql
+#4) demand.sql
+#5) ModeofTrans.sql
+#6) WeekendSalary.sql
+
+#It consists of PL/SQL functions, procedures, triggers and even more on performance tuning on some query values to retrive.
